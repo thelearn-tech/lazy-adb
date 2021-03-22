@@ -9,7 +9,7 @@ ADB for lazy People
 
 ***chmod +X lazy-adb.sh***
 
-***./lazy-adb.sh***
+***sh lazy-adb.sh***
 
 # Requirements
 
