@@ -167,7 +167,7 @@ banner_loop() {
  printf '\033[32m';echo "    /\  __ \   /\  __-.  /\  == \   "
  printf '\033[32m';echo "    \ \  __ \  \ \ \/\ \ \ \  __<    \033[33m  v1.0"
  printf '\033[32m';echo "     \ \_\ \_\  \ \____-  \ \_____\   \033[36m by thelearn-tech"
- printf '\033[32m';echo "      \/_/\/_/   \/____/   \/_____/   \033[31m 2021"
+ printf '\033[32m';echo "      \/_/\/_/   \/____/   \/_____/   \033[31m ©2021"
   echo  ""
   echo  ""
  printf '\033[32m';echo " 1)ADB Commands list"
