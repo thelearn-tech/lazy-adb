@@ -11,6 +11,8 @@ ADB for lazy People
 
 ***sh lazy-adb.sh***
 
+If **sh** didn't work  try **./** or **bash**
+
 # Requirements
 
 **Bash**
