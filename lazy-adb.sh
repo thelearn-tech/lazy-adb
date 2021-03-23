@@ -235,7 +235,7 @@ case $inputlol in
   printf '\033[31m';echo " wrong command"
   sleep 2
   clear
-  ./lazy-adb.sh
+  sh lazy-adb.sh
   exit 1
  ;;
  esac
@@ -248,12 +248,12 @@ case $inputlol in
   case $inputback1 in
  99)
  clear
- ./lazy-adb.sh
+ sh lazy-adb.sh
  exit 1
 ;;
 *)
  clear
- ./lazy-adb.sh
+ sh lazy-adb.sh
  exit 1
 ;;
 esac
@@ -261,12 +261,12 @@ esac
 case $inputback2 in
 99)
  clear
- ./lazy-adb.sh
+ sh lazy-adb.sh
  exit 1
 ;;
 *)
  clear
- ./lazy-adb.sh
+ sh lazy-adb.sh
  exit 1
 ;;
 esac
@@ -274,12 +274,12 @@ esac
 case $inputback3 in
 99)
    clear 
-   ./lazy-adb.sh
+   sh lazy-adb.sh
  exit 1
 ;;
 *)
  clear
- ./lazy-adb.sh
+ sh lazy-adb.sh
  exit 1
 ;;
 esac
@@ -287,12 +287,12 @@ esac
 case $inputback4 in
 99)
    clear 
-   ./lazy-adb.sh
+   sh lazy-adb.sh
  exit 1
 ;;
 *)
  clear
- ./lazy-adb.sh
+ sh lazy-adb.sh
  exit 1
  ;;
 esac
@@ -300,12 +300,12 @@ esac
 case $inputback5 in
 99)
    clear 
-   ./lazy-adb.sh
+   sh lazy-adb.sh
  exit 1
 ;;
 *)
  clear
- ./lazy-adb.sh
+ sh lazy-adb.sh
  exit 1
  ;;
 esac
@@ -313,12 +313,12 @@ esac
 case $inputback6 in
 99)
    clear 
-   ./lazy-adb.sh
+   sh lazy-adb.sh
  exit 1
 ;;
 *)
  clear
- ./lazy-adb.sh
+ sh lazy-adb.sh
  exit 1
  ;;
 esac
@@ -326,12 +326,12 @@ esac
 case $inputback7 in
 99)
    clear 
-   ./lazy-adb.sh
+   sh lazy-adb.sh
  exit 1
 ;;
 *)
  clear
- ./lazy-adb.sh
+ sh lazy-adb.sh
  exit 1
  ;;
 esac
@@ -339,12 +339,12 @@ esac
 case $inputback8 in
 99)
    clear 
-   ./lazy-adb.sh
+   sh lazy-adb.sh
  exit 1
 ;;
 *)
  clear
- ./lazy-adb.sh
+ sh lazy-adb.sh
  exit 1
  ;;
 esac
@@ -352,12 +352,12 @@ esac
 case $inputback9 in
 99)
    clear 
-   ./lazy-adb.sh
+   sh lazy-adb.sh
  exit 1
 ;;
 *)
  clear
- ./lazy-adb.sh
+ sh lazy-adb.sh
  exit 1
  ;;
 esac
