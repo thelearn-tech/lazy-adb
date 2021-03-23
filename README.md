@@ -7,7 +7,7 @@ ADB for lazy People
 
 ***cd lazy-adb***
 
-***chmod +X lazy-adb.sh***
+***chmod +x lazy-adb.sh***
 
 ***sh lazy-adb.sh***
 
